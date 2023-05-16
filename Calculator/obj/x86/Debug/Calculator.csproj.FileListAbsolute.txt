@@ -1,0 +1,6 @@
+c:\users\aaron\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\aaron\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\aaron\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+c:\users\aaron\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Aaron\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Aaron\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
